@@ -7,4 +7,4 @@ OS: Ubuntu 14.04 LTS
 Version: MySQL 5.7.8
 Usage: cat [filename] | mysql -hlocalhost -uroot -p [database]
 Authors
-Karivone
+Luccie

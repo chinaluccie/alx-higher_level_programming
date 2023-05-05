@@ -10,4 +10,4 @@ Language: Javascript, Node6 curl -sL <https://deb.nodesource.com/setup_6.x> | su
 OS: Ubuntu 14.04 LTS
 Style guidelines: Javascript Standard || Javascript Semistandard sudo npm install semistandard --global || Airbnb Javascript Style Guide
 Authors
-Karivone
+Luccie

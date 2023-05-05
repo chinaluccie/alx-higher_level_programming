@@ -1,5 +1,5 @@
 0x0F. Python - Object-relational mapping
-By Karivone
+By Luccie
 Weight: 1
 Before you start
 Please make sure your MySQL server is in 8.0 -> How to install MySQL 8.0 in Ubuntu 20.04

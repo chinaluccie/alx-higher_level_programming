@@ -3,7 +3,7 @@ Scripting
 API
 JavaScript
  Weight: 1
- Author: Karivone
+ Author: Luccie
 
 Resources
 Read or watch:

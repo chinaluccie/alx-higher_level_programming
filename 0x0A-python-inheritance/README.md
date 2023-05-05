@@ -25,4 +25,4 @@ OS: Ubuntu 14.04 LTS
 Compiler: python3
 Style guidelines: PEP 8 (version 1.7) || Google Style Python Docstrings
 Authors
-Kayewi
+Luccie

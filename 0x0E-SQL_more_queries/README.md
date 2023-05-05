@@ -8,4 +8,4 @@ Version: MySQL 5.7.8
 Suggested Style Guide: SQLStyle
 Usage: cat [filename] | mysql -hlocalhost -uroot -p [database]
 Authors
-Karivone
+Luccie

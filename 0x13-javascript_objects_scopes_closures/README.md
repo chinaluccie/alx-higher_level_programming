@@ -1,5 +1,5 @@
 **0x13. JavaScript - Objects, Scopes and Closures**
-By Karivone
+By Luccie
 Weight: 1
 Resources
 Read or watch:
